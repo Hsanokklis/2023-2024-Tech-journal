@@ -6,6 +6,9 @@ Assumptions:
 the code
 
 """
+
+# I seperate the dictonary into 2, because I think it easy to maniplate the list of student grades
+# when all the values are the same data types.
 courseInfo = {'course':'Intro to Programming', 'instructor': 'Dr Albert Einstein'}
 grades = {'Allen':90, 'Barbara':92, 'Charles':80, 'Denise':85, 'Edward':74, 'Frances':80, 'Gary':60, 'Harry':94,
 'Janice':91, 'Kelly':84, 'Larry':87}
