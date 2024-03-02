@@ -1,2 +1,1 @@
-hostname
-hostname
+mgmt01-hanne
